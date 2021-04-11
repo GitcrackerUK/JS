@@ -1224,3 +1224,9 @@
 
 // const noWashington = cutSchools('Washington', schools);
 // console.log(noWashington);
+
+function callstack(params) {
+    return 23;
+}
+
+callstack();
