@@ -1225,6 +1225,33 @@
 // const noWashington = cutSchools('Washington', schools);
 // console.log(noWashington);
 
-function callstack(params) {
-    return 23;
-}
+// const multiply = (x, y) => x * y;
+// const square = (x) => multiply(x, x);
+// const isRightTriangle = (a, b, c) => {
+//     return square(a) + square(b) === square(c);
+// };
+// isRightTriangle(3, 4, 5);
+
+// const repeat = (str, times) => {
+//     let result = '';
+//     for (let i = 0; i < times; i++) {
+//         result += str;
+//     }
+//     return result;
+// };
+// const scream = (str) => {
+//     return str.toUpperCase() + '!!!';
+// };
+// const getRandText = (phrase, el) => {
+//     let text = scream(phrase);
+//     let rant = repeat(text + '\n', 8);
+//     return rant;
+// };
+// const makeRant = (phrase, el) => {
+//     const h1 = document.createElement('h1');
+//     h1.innerText = getRandText(phrase);
+//     el.appendChild(h1);
+// };
+// console.log('Hello');
+
+// makeRant('I like understand coding!!', document.body);
