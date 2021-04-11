@@ -1228,5 +1228,3 @@
 function callstack(params) {
     return 23;
 }
-
-callstack();
